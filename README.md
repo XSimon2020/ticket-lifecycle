@@ -4,8 +4,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket-Lifecycle Example</h1>
-This demonstration outlines a simulation a ticket lifecycles for osTicket.<br />
+<h1>osTicket - Ticket Lifecycle Examples</h1>
+This demonstration outlines a simulation for ticket lifecycles in osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -23,6 +23,8 @@ This demonstration outlines a simulation a ticket lifecycles for osTicket.<br />
 <h2>List of Prerequisites</h2>
 
 - Completion of [osTicket: Prerequisites and Installation](https://github.com/XSimon2020/osticket-prereqs)
+
+- Completion of 
 
 <h2>Steps</h2>
 
