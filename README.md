@@ -18,7 +18,7 @@ This demonstration outlines a simulation for ticket lifecycles in osTicket.<br /
 
 - macOS
 
-- Windows 10 VM</b> (21H2)
+- Windows 10 Pro VM</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
