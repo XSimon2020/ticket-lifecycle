@@ -24,7 +24,7 @@ This demonstration outlines a simulation for ticket lifecycles in osTicket.<br /
 
 - Completion of [osTicket: Prerequisites and Installation](https://github.com/XSimon2020/osticket-prereqs)
 
-- Completion of 
+- Completion of [osTicket: Post-Installation Configuration](https://github.com/XSimon2020/post-install-config)
 
 <h2>Steps</h2>
 
