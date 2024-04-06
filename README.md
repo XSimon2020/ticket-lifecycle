@@ -11,14 +11,14 @@ This demonstration outlines a simulation for ticket lifecycles in osTicket.<br /
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure Virtual Machine (VM)
-- Remote Desktop
+- Microsoft Remote Desktop
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
 - macOS
 
-- Windows 10 Pro VM</b> (21H2)
+- Windows 10 Pro </b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
