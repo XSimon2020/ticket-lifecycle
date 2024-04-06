@@ -79,6 +79,6 @@ Log out of the current agent account and log in to the other agent assigned to t
 </p>
 <br/>
 
-<b>This marks the end of the tutorial.<b>
+<b>This marks the end of the demonstration.<b>
 
 
